@@ -1,4 +1,4 @@
-import web3  from './web3'
+import web3  from './web3';
 
 const address ='0x7defCF8f54D740737dD5335d409d3c7E94294e6b';
 
